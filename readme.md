@@ -26,19 +26,19 @@ console.log(dollarsToCents('$1,030.25')) // 103025
 
 Licensed under [The MIT License](LICENSE).
 
-[license-url]: https://github.com/Nijikokun/debounce/blob/master/LICENSE
+[license-url]: https://github.com/Nijikokun/dollars-to-cents/blob/master/LICENSE
 
-[travis-url]: https://travis-ci.org/Nijikokun/debounce
-[travis-image]: https://img.shields.io/travis/Nijikokun/debounce.svg?style=flat
+[travis-url]: https://travis-ci.org/Nijikokun/dollars-to-cents
+[travis-image]: https://img.shields.io/travis/Nijikokun/dollars-to-cents.svg?style=flat
 
-[npm-url]: https://www.npmjs.com/package/debounce
-[npm-license]: https://img.shields.io/npm/l/debounce.svg?style=flat
-[npm-version]: https://img.shields.io/npm/v/debounce.svg?style=flat
-[npm-downloads]: https://img.shields.io/npm/dm/debounce.svg?style=flat
+[npm-url]: https://www.npmjs.com/package/dollars-to-cents
+[npm-license]: https://img.shields.io/npm/l/dollars-to-cents.svg?style=flat
+[npm-version]: https://img.shields.io/npm/v/dollars-to-cents.svg?style=flat
+[npm-downloads]: https://img.shields.io/npm/dm/dollars-to-cents.svg?style=flat
 
-[codeclimate-url]: https://codeclimate.com/github/Nijikokun/debounce
-[codeclimate-quality]: https://img.shields.io/codeclimate/github/Nijikokun/debounce.svg?style=flat
-[codeclimate-coverage]: https://img.shields.io/codeclimate/coverage/github/Nijikokun/debounce.svg?style=flat
+[codeclimate-url]: https://codeclimate.com/github/Nijikokun/dollars-to-cents
+[codeclimate-quality]: https://img.shields.io/codeclimate/github/Nijikokun/dollars-to-cents.svg?style=flat
+[codeclimate-coverage]: https://img.shields.io/codeclimate/coverage/github/Nijikokun/dollars-to-cents.svg?style=flat
 
-[david-url]: https://david-dm.org/Nijikokun/debounce
-[david-image]: https://img.shields.io/david/Nijikokun/debounce.svg?style=flat
+[david-url]: https://david-dm.org/Nijikokun/dollars-to-cents
+[david-image]: https://img.shields.io/david/Nijikokun/dollars-to-cents.svg?style=flat
