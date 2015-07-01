@@ -1,0 +1,49 @@
+{
+  "name": "dollars-to-cents",
+  "version": "1.0.0",
+  "description": "Convert USD Dollars (formatted string, non-formatted, numerical value) to USD Cents (numerical).",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nijikokun/dollars-to-cents.git"
+  },
+  "scripts": {
+    "test": "npm test/index.js"
+  },
+  "echint": {
+    "ignore": [
+      "Makefile",
+      "readme.md"
+    ]
+  },
+  "keywords": [
+    "dollars",
+    "cents",
+    "module",
+    "convert",
+    "utils",
+    "stripe",
+    "usd",
+    "amount",
+    "money",
+    "symbol",
+    "string",
+    "helper",
+    "currency",
+    "formatted",
+    "string",
+    "numerical"
+  ],
+  "author": "Nijiko Yonskai",
+  "license": "MIT",
+  "devDependencies": {
+    "codeclimate-test-reporter": "^0.1.0",
+    "echint": "^1.3.0",
+    "istanbul": "^0.3.17",
+    "mocha": "^2.2.5",
+    "standard": "^4.5.1"
+  }
+}
