@@ -3,6 +3,10 @@ var assert = require('assert')
 var dollarsToCents = require('../index')
 
 describe('dollars-to-cents', function () {
+  it('should properly error on invalid values', function () {
+    assert.throws(dollarsToCents, Error)
+  })
+
   it('should properly handle numerical values', function () {
     assert(dollarsToCents(1) === 100)
   })
