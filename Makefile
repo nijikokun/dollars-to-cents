@@ -7,7 +7,7 @@ MOCHA = node_modules/.bin/mocha
 MOCHA_SPAWN = node_modules/.bin/_mocha
 ISTANBUL = node_modules/.bin/istanbul
 COVERAGE_REPORT = ./coverage/lcov.info
-CODECLIMATE = ./node_modules/.bin/codeclimate
+CODECLIMATE = ./node_modules/.bin/codeclimate-test-reporter
 TESTS = test/**/*
 
 # Commands
