@@ -1,10 +1,10 @@
 {
   "name": "dollars-to-cents",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert USD Dollars (formatted string, non-formatted, numerical value) to USD Cents (numerical).",
   "main": "index.js",
   "directories": {
-    "test": "test"
+    "test": "make test"
   },
   "repository": {
     "type": "git",
