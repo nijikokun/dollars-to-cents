@@ -1,5 +1,4 @@
 /*global describe:false, it:false*/
-
 var assert = require('assert')
 var dollarsToCents = require('../index')
 
