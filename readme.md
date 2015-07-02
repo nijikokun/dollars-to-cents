@@ -1,4 +1,4 @@
-# Debounce
+# Dollars to Cents
 
 [![version][npm-version]][npm-url]
 [![License][npm-license]][license-url]
