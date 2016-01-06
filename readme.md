@@ -28,8 +28,8 @@ Licensed under [The MIT License](LICENSE).
 
 [license-url]: https://github.com/Nijikokun/dollars-to-cents/blob/master/LICENSE
 
-[travis-url]: https://travis-ci.org/Nijikokun/dollars-to-cents
-[travis-image]: https://img.shields.io/travis/Nijikokun/dollars-to-cents.svg?style=flat
+[travis-url]: https://travis-ci.org/nijikokun/dollars-to-cents
+[travis-image]: https://img.shields.io/travis/nijikokun/dollars-to-cents.svg?style=flat
 
 [npm-url]: https://www.npmjs.com/package/dollars-to-cents
 [npm-license]: https://img.shields.io/npm/l/dollars-to-cents.svg?style=flat
